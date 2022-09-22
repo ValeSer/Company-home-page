@@ -19,3 +19,15 @@ Create a centered navbar at the top of the page.
 Create a flexible display of company products that changes from a more grid-like list to a column list as the page shrinks.
 Create a flexible display of company employees.
 
+
+4- Your page should also use custom styles for other properties, such as colors, fonts, and other layout properties such as borders and padding.
+
+Our example site uses:
+
+A simple color scheme using CSS named colors, but yours can be more elaborate with hexadecimal, RGB, or HSL colors.
+Fonts from the Google Fonts API.
+Custom images. A great source for project images when you’re practicing web design is Unsplash.
+Get creative! Customizing your site’s look and feel is one of the most exciting parts of building your own websites.
+
+
+There are multiple ways to solve these projects, and you’ll learn more by seeing others’ code.
