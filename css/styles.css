@@ -1,4 +1,5 @@
 header {
+    display: flex;
     background-color:grey;
     height: 3rem;
     padding: 1rem;
@@ -6,5 +7,11 @@ header {
 
 .logo {
     background-color: blue;
+    height: 100%;
+    width: 3rem;
+}
+
+.company-name {
+    background-color:red;
     height: 100%;
 }
