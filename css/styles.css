@@ -14,10 +14,12 @@ header {
 .company-name {
     background-color:red;
     height: 100%;
+    flex-grow: 1;
 }
 
 .social-container {
     background-color: aqua;
     height: 100%;
     width: 9rem;
+    
 }
