@@ -3,3 +3,8 @@ header {
     height: 3rem;
     padding: 1rem;
 }
+
+.logo {
+    background-color: blue;
+    height: 100%;
+}
