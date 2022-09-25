@@ -35,8 +35,9 @@ nav {
 
 .splash {
     background-color: cornflowerblue;
+    position: relative;
 }
-.img-container {
+.splash-img {
     background-size: 80%;
     background-color: coral;
     background-image: url(../pets.jpeg);
@@ -47,6 +48,7 @@ nav {
 
 .splash-text {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
 }
 
 
