@@ -32,6 +32,12 @@ nav {
     padding: 1.2rem 0.75rem;
 }
 
-a link {
-
+.splash {
+    background-color: coral;
 }
+
+.splash-text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
