@@ -35,6 +35,11 @@ nav {
 .splash {
     background-color: coral;
     background-image: url(../pets.jpeg);
+    height: 20rem;
+    background-repeat: no-repeat; 
+    background-position: center;
+    
+
 }
 
 .splash-text {
