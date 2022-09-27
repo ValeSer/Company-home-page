@@ -63,11 +63,14 @@ nav {
 .pics-container {
     background-color: black;
     height: 20rem;
+    display: flex;
 }
 
 .pic-container {
     background-color: aqua;
     height: 10rem;
+    width: 10rem;
+    
 }
 
 .pic1 {
