@@ -70,6 +70,7 @@ nav {
     background-color: aqua;
     height: 70%;
     width: 70%;
+    padding: 1rem;
     
 }
 
@@ -96,4 +97,20 @@ nav {
     color: azure;
     text-decoration: underline;
     font-size: 2rem;
+}
+
+.employees-container {
+    background-color:yellow;
+    height: 20rem;
+    display: flex;
+}
+
+.employee {
+    background-image: url(../avatar.jpeg);
+}
+
+.name {
+    text-align: center;
+    color: darkgreen;
+    font-size: 1.5rem;
 }
