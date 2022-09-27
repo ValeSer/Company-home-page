@@ -91,12 +91,9 @@ nav {
     height: 80%
 }
 
-.pic-link {
+.pic-description {
+    text-align: center;
     color: azure;
     text-decoration: underline;
     font-size: 2rem;
-}
-
-.pic-description {
-    text-align: center;
 }
