@@ -60,3 +60,22 @@ nav {
     padding: 1rem 1rem 1rem 1.5rem;
 }
 
+.pics-container {
+    background-color: black;
+    height: 20rem;
+}
+
+.pic1 {
+    background-image: url(../vet-dog.jpeg);
+    height: 100%
+}
+
+.pic2 {
+    background-image: url(../vet-rabbit.jpeg);
+    height: 100%
+}
+
+.pic {
+    background-image: url(../vet-cat.jpeg);
+    height: 100%
+}
