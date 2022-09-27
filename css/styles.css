@@ -68,8 +68,8 @@ nav {
 
 .pic-container {
     background-color: aqua;
-    height: 10rem;
-    width: 10rem;
+    height: 70%;
+    width: 70%;
     
 }
 
@@ -93,7 +93,8 @@ nav {
     background-position: center;
 }
 
-a {
+.pic-link {
     color: azure;
     text-decoration: underline;
+    font-size: 2rem;
 }
