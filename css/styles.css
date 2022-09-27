@@ -92,3 +92,8 @@ nav {
     background-repeat: no-repeat;
     background-position: center;
 }
+
+a {
+    color: azure;
+    text-decoration: underline;
+}
