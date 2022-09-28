@@ -31,6 +31,13 @@ header {
     width: 9rem;
 }
 
+#facebook {
+    background-image: url(../icon-facebook.png);
+    background-repeat: no-repeat;
+    background-color: black
+    
+}
+
 /* nav section */
 
 nav {
