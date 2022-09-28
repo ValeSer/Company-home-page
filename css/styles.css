@@ -121,3 +121,35 @@ nav {
     font-size: 1.5rem;
 }
 
+footer {
+    background-color: burlywood;
+    display: flex;
+    ali
+}
+
+.tel-container {
+    background-color: blueviolet;
+    height: 4rem;
+    width: 20rem;
+    padding: 1rem
+}
+
+.email-container {
+    background-color: coral;
+    height: 4rem;
+    width: 20rem;
+    padding: 1rem
+}
+
+.tel-title  {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+}
+
+.email-title {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+}
+
+
+
