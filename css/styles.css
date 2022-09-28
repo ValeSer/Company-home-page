@@ -73,6 +73,11 @@ nav {
     padding: 1rem;
 }
 
+.pic {
+    height: 10rem;
+    width: 15rem;
+}
+
 .pic1 {
     background-image: url(../vet-dog.jpeg);
 }
@@ -85,11 +90,6 @@ nav {
     background-image: url(../vet-cat.jpeg);
 }
 
-.pic {
-    background-repeat: no-repeat;
-    background-position: center;
-    height: 80%
-}
 
 .pic-description {
     text-align: center;
@@ -111,7 +111,8 @@ nav {
 }
 
 .employee {
-    background-image: url(../avatar.jpeg);
+    height: 15rem;
+    width: 12rem;
 }
 
 .name {
@@ -119,3 +120,4 @@ nav {
     color: darkgreen;
     font-size: 1.5rem;
 }
+
