@@ -71,7 +71,6 @@ nav {
     height: 70%;
     width: 70%;
     padding: 1rem;
-    
 }
 
 .pic1 {
@@ -103,6 +102,12 @@ nav {
     background-color:yellow;
     height: 20rem;
     display: flex;
+}
+
+.employee-container {
+    background-color: aqua;
+    width: 70%;
+    padding: 1rem;
 }
 
 .employee {
