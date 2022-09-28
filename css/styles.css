@@ -7,9 +7,12 @@ header {
 }
 
 .logo {
-    background-color: blue;
-    height: 100%;
+    background-image: url(../kisspng-bichon-frise-whiskers-puppy-clip-art-puppy-logo-5a9a6d25b684c1.8677780715200699257476.jpg);
+    height: 3rem;
     width: 3rem;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 .company-name {
