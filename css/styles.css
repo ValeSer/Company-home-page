@@ -122,27 +122,28 @@ nav {
 }
 
 footer {
-    background-color: burlywood;
+    background-color:darkgrey;
     display: flex;
     justify-content: space-between;
 }
 
-.tel-container, .email-container{
+.tel-container, .email-container {
     display: flex;
-    background-color: blueviolet;
+    justify-content: space-between;
     height: 4rem;
-    width: 20rem;
-    padding: 1rem
+    padding: 1rem;
 }
 
 .tel-title  {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 2rem;
+    padding-left: 1rem;
 }
 
 .email-title {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 2rem;
+    padding-left: 1rem;
 }
 
 
