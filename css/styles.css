@@ -124,18 +124,12 @@ nav {
 footer {
     background-color: burlywood;
     display: flex;
-    ali
+    justify-content: space-between;
 }
 
-.tel-container {
+.tel-container, .email-container{
+    display: flex;
     background-color: blueviolet;
-    height: 4rem;
-    width: 20rem;
-    padding: 1rem
-}
-
-.email-container {
-    background-color: coral;
     height: 4rem;
     width: 20rem;
     padding: 1rem
