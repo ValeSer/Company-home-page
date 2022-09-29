@@ -1,7 +1,7 @@
 /* header section */
 header {
     display: flex;
-    background-color:grey;
+    background-color:white;
     height: 3rem;
     padding: 1rem;
 }
@@ -26,16 +26,14 @@ header {
 }
 
 .social-container {
-    background-color: aqua;
-    height: 100%;
-    width: 9rem;
+    width: 10rem;
+    display: flex;
+    justify-content: space-evenly;
 }
 
-#facebook {
-    background-image: url(../icon-facebook.png);
-    background-repeat: no-repeat;
-    background-color: black
-    
+.facebook, .twitter, .instagram{
+    height: 3rem;
+    width: 2.95rem;
 }
 
 /* nav section */
