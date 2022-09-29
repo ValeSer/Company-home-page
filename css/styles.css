@@ -39,9 +39,29 @@ header {
 /* nav section */
 
 nav {
-    background-color: brown;
+    background-color:lightgray;
     text-align: right;
     padding: 1.2rem 0.75rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.link {
+    font-size: 1rem;
+    padding: 0.5rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.link:hover {
+    color: blue;
+}
+
+.link:active {
+    color: violet;
+}
+
+.book {
+    
 }
 
 
