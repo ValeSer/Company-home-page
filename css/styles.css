@@ -187,7 +187,13 @@ footer .social-container {
 
 
 @media only screen and (max-width: 600px) {
-    .social-container {
+    header .social-container {
         display: none;
     }
+
+    footer .social-container {
+        display: block;
+    }
+
+
 }
