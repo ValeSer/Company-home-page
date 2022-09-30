@@ -135,12 +135,12 @@ nav {
     padding-top: 1rem;
 }
 .employees-container {
-    height: 20rem;
     display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 
 .employee-container {
-    width: 70%;
     padding: 1rem;
 }
 
@@ -159,6 +159,7 @@ footer {
     background-color: lightgray;
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 .tel-container, .email-container {
