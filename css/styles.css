@@ -93,11 +93,12 @@ nav {
 .pics-container {
     padding:2rem;
     display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 
 .pic-container {
     height: 70%;
-    width: 70%;
     padding: 1rem;
 }
 
