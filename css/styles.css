@@ -181,5 +181,13 @@ footer {
     padding-left: 1rem;
 }
 
+footer .social-container {
+    display: none;
+}
 
 
+@media only screen and (max-width: 600px) {
+    .social-container {
+        display: none;
+    }
+}
